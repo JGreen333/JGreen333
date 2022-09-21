@@ -1,0 +1,67 @@
+body {
+  text-align: center;
+  background-color: whitesmoke;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  align-content: center;
+  justify-content: center;
+}
+
+h1 {
+  color: green;
+  text-decoration: underline;
+  text-decoration-color: black;
+}
+
+#header {
+  font-weight: bolder;
+}
+
+#nameInput {
+  width: 600px;
+}
+
+#dateInput,
+#amountInput {
+  width: 270px;
+}
+
+#inputFields {
+  border-style: double;
+  padding: 10px;
+  border-width: 5px;
+  margin-left: 280px;
+  width: fit-content;
+}
+
+#addButton {
+  background-color: green;
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  border-color: whitesmoke;
+  color: whitesmoke;
+}
+
+table,
+th,
+td {
+  border-style: solid;
+  border-collapse: collapse;
+}
+
+td {
+  width: 300px;
+}
+
+table {
+  margin-left: 170px;
+  margin-top: 30px;
+}
+
+#header {
+  font-weight: bold;
+}
+
+#newExpense {
+  color: green;
+}

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Julian!
-- 🌱 I’m currently learning JavaScript, Bootstrap CSS, and ReactJS.
+- 🌱 I’m currently learning JavaScript, Python, and ReactJS.
 - 💞️ I’m looking forward to contributing to my first open-source project.
 - 👀 Outside of coding, I’m interested in music, movies, and staying active.
 <!---
